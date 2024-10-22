@@ -1,0 +1,4 @@
+Time to read A and B matrices: 0.003155 seconds
+Time to compute L matrix and U matrix: 0.004575 seconds
+Time to compute Y matrix and X(solution) matrix: 0.000498 seconds
+Total time to solve system of equations: 0.008229 seconds
